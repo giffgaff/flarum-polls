@@ -6,7 +6,7 @@
     "flarum-webpack-config": "^0.1.0-beta.10",
     "flatpickr": "^4.6.6",
     "terser": "^4.8.0",
-    "webpack": "^4.44.2",
+    "webpack": "^5.1.1",
     "webpack-cli": "^3.3.12"
   },
   "scripts": {
